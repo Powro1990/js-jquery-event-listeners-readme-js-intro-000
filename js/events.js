@@ -11,7 +11,9 @@ function frameIt(){
 }
 
 function submitIt(){
-  
+  $('form').on("submit", function(){
+    
+  })
 }
 
 $(document).ready(function(){
